@@ -209,13 +209,13 @@
             <!-- Full-width images with number and caption text -->
             <div class="mySlides fade">
                 <div class="numbertext">1 / 2</div>
-                <img src="img/pic1.png" style="width:30%">
+                <img src="pic1.png" style="width:30%">
                 <div class="text">Pic 1 eiei</div>
             </div>
 
             <div class="mySlides fade">
                 <div class="numbertext">2 / 2</div>
-                <img src="img/pic2.png" style="width:25%">
+                <img src="pic2.png" style="width:25%">
                 <div class="text">Pic 2 eiei</div>
             </div>
             <!-- Next and previous buttons -->
